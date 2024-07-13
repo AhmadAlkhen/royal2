@@ -1,6 +1,6 @@
 Installation :
 1- Clone the repository:
-https://github.com/AhmadAlkhen94/royal-test.git
+(https://github.com/AhmadAlkhen/royal2.git)
 
 2 - Install dependencies, :
 composer install
